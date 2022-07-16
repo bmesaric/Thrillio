@@ -1,1 +1,2 @@
-# master
+# Thrillio is a social bookmarking app.
+It simulates any bookmark website where you can add your favorite movies, books, articles etc...
